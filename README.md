@@ -2,7 +2,7 @@
 
 ### Senior Executive – Taxation | GST & TDS Specialist
 📍 Gandhidham, Gujarat, India  
-📧 [jhaanuj383@gmail.com](mailto:jhaanuj383@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/anuj-jha-367318427) | 🌐 [My Portfolio Website](https://jhaanuj383-dot.github.io/)
+📧 [jhaanuj383@gmail.com](mailto:jhaanuj383@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/anujjha383) | 🌐 [My Portfolio Website](https://anujjha383.github.io/)
 
 ---
 
@@ -67,7 +67,7 @@ A reconciliation tool that matches TDS challan deposits against deductee-wise an
 ### 🌐 Job Portfolio Website
 A resume-style portfolio website showcasing my professional summary, expertise, work history, skills, and education.
 
-🔗 **View it here:** [My Portfolio Website](https://jhaanuj383-dot.github.io/)
+🔗 **View it here:** [My Portfolio Website](https://anujjha383.github.io/)
 
 ---
 
@@ -80,8 +80,8 @@ A resume-style portfolio website showcasing my professional summary, expertise, 
 ## 📫 Connect With Me
 
 - 📧 **Email:** [jhaanuj383@gmail.com](mailto:jhaanuj383@gmail.com)
-- 💼 **LinkedIn:** [Anuj Jha](https://www.linkedin.com/in/anuj-jha-367318427)
-- 🌐 **Portfolio Website:** [My Portfolio Website](https://jhaanuj383-dot.github.io/)
+- 💼 **LinkedIn:** [Anuj Jha](https://www.linkedin.com/in/anujjha383)
+- 🌐 **Portfolio Website:** [My Portfolio Website](https://anujjha383.github.io/)
 - 📍 Gandhidham, Gujarat
 - 💼 Senior Executive – Taxation, Accuracy Shipping Limited
 
